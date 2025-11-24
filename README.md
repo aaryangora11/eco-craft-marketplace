@@ -1,73 +1,24 @@
-# Welcome to your Lovable project
+-Problem Description
+Despite increasing awareness about sustainability and social equity, there remains a lack of accessible digital platforms that effectively combine eco-conscious commerce with social empowerment. Individuals from marginalized communities—such as mentally disabled children, war widows, and ex-military personnel—often possess valuable skills but lack the visibility and market access to sell their handmade products. Simultaneously, consumers who wish to support such causes struggle to find authentic, ethically-sourced handmade products online. This project aims to bridge this gap by developing a fully functional commercial website that not only promotes recycled paper products but also empowers these communities by providing them with a dignified, digital marketplace.
 
-## Project info
+-Objectives
+To develop a user-friendly e-commerce website for selling handmade products made from recycled paper.
+To empower mentally disabled children, war widows, and ex-military personnel by providing them with a digital marketplace.
+To promote sustainability through the sale of eco-friendly paper products.
+To raise awareness about the social impact behind each product by showcasing artisan stories.
 
-**URL**: https://lovable.dev/projects/400f6603-2e47-493a-b833-3383257d19ff
+-Proposed Solution
+The proposed solution is to develop a fully functional, user-friendly e-commerce website that serves as a digital marketplace for handmade paper products crafted from recycled materials. The platform will feature products made by mentally disabled children, war widows, and ex-military personnel, offering them a dignified source of income and visibility. The website will include product listings, secure payment integration, creator profiles, and impact stories to promote both environmental sustainability and social empowerment. It aims to connect conscious consumers with meaningful products while supporting underprivileged communities.
 
-## How can I edit this code?
+-Technology Stack
+=Frontend
+React (TypeScript)
+Vite
+Tailwind CSS
+ShadCN UI (optional)
+=Backend
+Supabase
+Auth
+PostgreSQL Database
+Storage
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/400f6603-2e47-493a-b833-3383257d19ff) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/400f6603-2e47-493a-b833-3383257d19ff) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
